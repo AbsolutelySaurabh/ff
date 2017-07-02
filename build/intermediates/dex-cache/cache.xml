@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d316bf98ec8f3c9880303a8ec1aba6d0a18abc78">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_7b278b19ba20f98ab25a66732d0f5680bea5601a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rishabhsachdeva\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_a5d94cea29334283f947e00cb7465a0e77696ab8.jar" />
+    </item>
+
+</items>
